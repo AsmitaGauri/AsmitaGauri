@@ -5,9 +5,9 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a secret website ;)
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on projects based on React.js/React-Native
+- 🔭 I’m currently working on ***a secret website ;)***
+- 🌱 I’m currently learning ***React Native***
+- 👯 I’m looking to collaborate on projects based on ***React.js/React-Native***
 - 🤔 I’m looking for help with a website based on React , contact me if interested 
 - 💬 Ask me about litreally anything :)
 - 📫 How to reach me: [Linkedin@asmita-gauri](https://www.linkedin.com/in/asmita-gauri)
