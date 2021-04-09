@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on projects based on React.js/React-Native
 - 🤔 I’m looking for help with a website based on React , contact me if interested 
 - 💬 Ask me about litreally anything :)
-- 📫 How to reach me: [Linkedin@asmita-gauri](www.linkedin.com/in/asmita-gauri)
+- 📫 How to reach me: [Linkedin@asmita-gauri](https://www.linkedin.com/in/asmita-gauri)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Music is my life :|
 
